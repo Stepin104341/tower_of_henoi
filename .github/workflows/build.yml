@@ -20,4 +20,4 @@ jobs:
       with:
         python-version: 3.8
     - name: Build
-      run: python3 test2.py
+      run: python3 tower_of_henoi/main.py
